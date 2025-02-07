@@ -5,13 +5,13 @@
 - 📈 I’m currently working as **Graduate Research Assistant at the University of Oklahoma.** <br>
 - 🧑‍💻 Working on **JupyterHub** development, enhancing user-facing features with **React.js, Node.js** and optimizing container management.
 
-- 💻 I’m currently learning **TypeScript, AWS, Kubernetes**
+- 💻 I’m currently learning **TypeScript, AWS, Kubernetes.**
 
-- 👯 I’m looking to collaborate on **Full-Stack and Data Science projects**
+- 👯 I’m looking to collaborate on **Full-Stack and Data Science projects.**
 
-- 💬 Ask me about **react.js and node.js**
+- 💬 Ask me about **react.js and node.js.**
 
-- 📫 How to reach me **sanjanareddyella@gmail.com**
+- 📫 You can reach me out at **sanjanareddyella@gmail.com.**
 
 
 ##### Programming Languages I use
