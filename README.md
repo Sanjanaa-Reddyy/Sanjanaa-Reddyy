@@ -3,7 +3,6 @@
 <h3 align="center" style="font-size: 15px;">Building Scalable, High-Performance Applications with Modern Web Technologies & Machine Learning</h3>
 
 - 📈 I’m currently working as **Graduate Research Assistant at the University of Oklahoma.** <br>
-- 🧑‍💻 Working on **JupyterHub** development, enhancing user-facing features with **React.js, Node.js** and optimizing container management.
 
 - 💻 I’m currently learning **TypeScript, AWS, Kubernetes.**
 
